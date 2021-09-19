@@ -1,0 +1,243 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 86px;
+    border-bottom: 1px solid black;
+    display: flex;
+}
+.logo{
+    width: 201px;
+    height: 31px;
+   
+    padding-left: 130px;
+    font-size: 28px;
+    font-family: 'Nunito', sans-serif;
+}
+span{
+    color: rgb(0, 124, 195);
+}
+.nav{
+    display: flex;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    padding-left:50% ;
+    
+}
+.navigation{
+    padding-top: 34px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+.sidebar1{
+    width: 100%;
+    height: 844px;
+    background-color: #54A3DA;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    display: flex;
+}
+.text{
+    font-size: 52px;
+}
+.text2{
+    font-size: 24px;
+}
+.sgn{
+    display: flex;
+    margin-top: 58px;
+}
+.free{
+    width: 58px;
+    height: 28px;
+    background-color: #FFCE54;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: -10px;
+    padding-top: 10px;
+}
+.input{
+    margin-top: 46px;
+    display: flex;
+}
+.mail{
+    width: 424px;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #2D394C;
+}
+.sign{
+    width: 114px;
+    height: 55px;
+    border: none;
+    background-color: #77C344;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 36px;
+}
+.sky{
+    padding-top: 100px;
+    margin-left: 250px;
+}
+.sky1{
+    margin-left: 60px;
+}
+.reg{
+    width: 600px;
+    height: 600px;
+    margin-left: 161px;
+    margin-top: 148px;
+}
+.ha{
+    width: 600px;
+    height: 700px;
+    margin-left: 30%;
+    margin-top: 93px;
+}
+.sky3{
+    margin-left: 300px;
+}
+.sidebar2{
+    width: 100%;
+    height: 159px;
+    background-color: #F8F8F8;
+}
+.logos1{
+    padding-left: 275px;
+}
+.logos{
+    padding-left: 122px;
+    padding-top: 68px;
+}
+.sidebar3{
+    width: 100%;
+    height: 1000px;
+}
+.txt{
+    margin-top: 137px;
+    margin-left: 13%;
+}
+.head{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #2D394C;
+    padding-top: 50px;
+}
+.mes1{
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+}
+#mesicon{
+    font-size: 20px;
+    margin-top: 28px;
+    color: rgb(0, 153, 255);
+}
+.txt1{
+    font-size: 22px;
+    padding-left: 10px  ;
+}
+.all{
+    display: flex;
+}
+.mac{
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+.sidebar4{
+    width: 100%;
+    height: 732px;
+    background-color: #F1F1F2;
+}
+.a{
+    margin-top: 170px; 
+    margin-left: 100px;
+}
+.r{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.i{
+    font-family: 'Ubuntu', sans-serif;
+     
+}
+.sidebar5{
+    width: 100%;
+    height: 500px;
+}
+.t{
+display: flex;
+}
+.boat{
+    width: 1200px;
+    height: 500px;
+}
+.k{
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.mail1{
+    width: 424px;
+    height: 55px;
+    margin-left: 621px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #2D394C;
+    margin-top: 100px;
+}
+.sign1{
+    width: 114px;
+    height: 55px;
+    border: none;
+    background-color: #77C344;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 36px;
+    margin-top: 100px;  
+}
+footer{
+    width: 100%;
+    height: 76px;
+    border-bottom: 1px solid black;
+    display: flex;
+    background-color: #F8F8F8;
+    
+}
+.nav1{
+    display: flex;
+    font-size: 12px;
+    font-family: 'Nunito', sans-serif;
+    padding-left:50% ;
+    
+}
+#twit{
+    padding-top: 33px;
+    padding-left: 20px;
+    font-size: 16px;
+    color: cornflowerblue;
+}
+#face{
+    padding-top: 33px;
+    padding-left: 20px;
+    font-size: 16px;
+    color: rgb(162, 209, 19);
+}
+#goo{
+    padding-top: 33px;
+    padding-left: 20px;
+    font-size: 16px;
+    color: rgb(209, 19, 19);
+}
